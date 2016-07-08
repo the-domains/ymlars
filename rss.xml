@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ymlars]]></title>
         <description><![CDATA[ymlars]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ymlars/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 23:05:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 23:19:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ymlars/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70ee9827-beef-4bd3-94f0-fa19c869abfe.png">]]></description>
+            <link>https://thegrid.ai/ymlars/learn-to-listen-to-god-through-the-written-word-other-follo/index.html</link>
+            <guid isPermaLink="false">31dbd51a-05d7-491c-af40-97b8af901147</guid>
+            <pubDate>Fri, 08 Jul 2016 23:19:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GYM]]></title>
             <description><![CDATA[<article><h1>GYM</h1><p>Joining the ministry team at Glendale Church to serve with the youth ministry! GYM will meet on Sunday nights. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a09d0d50-201c-4f43-aa0b-41abdde7b1e1.jpg"></article>]]></description>
