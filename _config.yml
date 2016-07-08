@@ -1,0 +1,14 @@
+layout_spectrum: 0.08539204
+color:
+  saturation: 0.3983281
+  lightness: 0.8696916
+  brandStrength: 0.9051661
+  brandColors:
+    - '#7A7879'
+    - '#FFFFFF'
+    - '#E8DFD3'
+    - '#D1C5BC'
+    - '#A4918F'
+  rhythmicContrast: 0.2145319
+typography_spectrum: 0.6374866
+name: ymlars
